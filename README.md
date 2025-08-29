@@ -4,26 +4,18 @@
 Este ejercicio tiene como objetivo practicar **colaboración con Git y GitHub** dentro de un proyecto Android nativo con **Kotlin y Jetpack Compose**.  
 Los estudiantes trabajarán en equipo, utilizando ramas, commits, Pull Requests y revisiones de código, simulando un flujo de trabajo real.
 
-## 🚀 Instrucciones
-1. Crea un fork del repositorio de GitHub y clonalo en tu computadora.
-2. Crea una rama con tu nombre o con el nombre de la funcionalidad que te corresponda (ejemplo: `feature/nombre-lista`).
-3. Implementa la parte del proyecto que te fue asignada (modelo, repositorio, UI, etc.).
-4. Haz commits pequeños y descriptivos de tus cambios.
-5. Abre un Pull Request (PR) hacia la rama `develop`. Otro compañero debe revisarlo antes de hacer merge.
-6. Una vez que todas las *features* estén integradas en `develop`, el equipo debe abrir un PR final hacia `main` del repositorio original.
-7. El repositorio debe incluir:
-    - Capturas de pantalla de la app corriendo (lista y detalle).
-    - Evidencias de los PRs y revisiones de código.
-    - Una breve reflexión en este README sobre lo aprendido.
-
 ## 📂 Estructura del proyecto
 - `MainActivity.kt`: Contiene la pantalla inicial con un mensaje de bienvenida.
 - `strings.xml`: Archivo de recursos de texto.
 - `develop` branch: Rama donde se integrarán las features antes de pasar a `main`.
 
 ## 📝 Entrega
-Al finalizar:
-- Agrega en este README:
-    - Capturas de pantalla de la app funcionando.
-    - Explicación de cómo resolvieron los conflictos y organizaron el flujo de trabajo.
-    - Reflexión del equipo sobre lo aprendido.
+### Capturas de pantalla de la app funcionando.
+
+### Explicación de cómo resolvieron los conflictos y organizaron el flujo de trabajo.
+Para resolver los conflictos, editamos directamente los archivos en conflicto desde la interfaz web de GitHub. En cuanto al flujo de trabajo, cada integrante fue responsable de una feature específica, creando su propia rama (feature/nombre) y abriendo un pull request hacia develop. El hecho de no poder aprobar nuestros propios pull requests fue algo positivo, porque nos obligó a que los demás revisaran el código, dejaran comentarios sobre los cambios y así logramos que la integración fuera más cuidadosa.
+
+### Reflexión del equipo sobre lo aprendido.
+Este ejercicio nos ayudó mucho porque usamos cosas de GitHub que casi no habíamos tocado antes, como los Forks y los Pull Requests. También nos sirvió para darnos cuenta de lo importante que es hacer commits claros, bien escritos y en inglés, para que todo quede más ordenado y entendible para otro colaboradores.
+
+Otra cosa que aprendimos fue a organizarnos mejor trabajando en equipo, ya que usar ramas y pull requests nos evitó varios problemas al momento de integrar el código. Además, como cada quien tenía que revisar el trabajo de los demás, eso nos obligó a comunicarnos más y dar retroalimentación, lo cual al final mejoró bastante lo que hicimos. Sentimos que esta práctica nos acercó un poco más a cómo se trabaja en proyectos reales ya en la vida laboral. 
