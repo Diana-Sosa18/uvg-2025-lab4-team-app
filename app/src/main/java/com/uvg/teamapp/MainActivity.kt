@@ -16,11 +16,11 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.uvg.teamapp.model.TeamMember
 import com.uvg.teamapp.repository.FakeTeamRepository
-import com.uvg.teamapp.ui.TeamDetailScreen
+import com.uvg.teamapp.ui.TeamDetailScreen//cambio de módulo
 import com.uvg.teamapp.ui.TeamListScreen
 import com.uvg.teamapp.ui.theme.TeamAppTheme
 
-//cambio de módulo
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
