@@ -56,10 +56,7 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation(libs.kotlinx.coroutines.android)
-    implementation(libs.kotlinx.coroutines.core)
-    implementation(libs.kotlinx.coroutines.test)
-    // build.gradle.kts (Module :app)
+    //build.gradle.kts (Module :app)
     implementation(libs.androidx.navigation.compose)
     
 }
