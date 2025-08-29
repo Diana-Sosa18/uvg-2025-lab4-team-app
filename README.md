@@ -11,6 +11,7 @@ Los estudiantes trabajarán en equipo, utilizando ramas, commits, Pull Requests 
 
 ## 📝 Entrega
 ### Capturas de pantalla de la app funcionando.
+![Imagen de WhatsApp 2025-08-29 a las 12 42 33_dbea7daa](https://github.com/user-attachments/assets/8a35b366-fac1-41e4-8a72-44099dce09b3)
 
 ### Explicación de cómo resolvieron los conflictos y organizaron el flujo de trabajo.
 Para resolver los conflictos, editamos directamente los archivos en conflicto desde la interfaz web de GitHub. En cuanto al flujo de trabajo, cada integrante fue responsable de una feature específica, creando su propia rama (feature/nombre) y abriendo un pull request hacia develop. El hecho de no poder aprobar nuestros propios pull requests fue algo positivo, porque nos obligó a que los demás revisaran el código, dejaran comentarios sobre los cambios y así logramos que la integración fuera más cuidadosa.
