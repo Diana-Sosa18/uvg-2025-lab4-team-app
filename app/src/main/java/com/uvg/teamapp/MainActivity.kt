@@ -20,6 +20,7 @@ import com.uvg.teamapp.ui.TeamDetailScreen
 import com.uvg.teamapp.ui.TeamListScreen
 import com.uvg.teamapp.ui.theme.TeamAppTheme
 
+//cambio de módulo
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
