@@ -1,4 +1,4 @@
-package com.example.teamapp.ui
+package com.uvg.teamapp.ui
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
